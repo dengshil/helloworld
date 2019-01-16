@@ -1,0 +1,12 @@
+com\qwe\service\UserRedPacketService.class
+com\qwe\config\RootConfig.class
+com\qwe\web\UserRedPacketController.class
+com\qwe\service\impl\UserRedPacketServiceImpl.class
+com\qwe\dao\UserRedPacketDao.class
+com\qwe\config\WebAppInitializer.class
+com\qwe\domain\UserRedPacket.class
+com\qwe\dao\RedPacketDao.class
+com\qwe\domain\RedPacket.class
+com\qwe\service\impl\RedPacketServiceImpl.class
+com\qwe\config\WebConfig.class
+com\qwe\service\RedPacketService.class
